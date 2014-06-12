@@ -1,6 +1,6 @@
 	<div class='col-sm-12 col-md-10 col-md-offset-1'>
 		<!--Form to create a new person -->
-		<h1>Add a new Person</h1>
+		<h1>Add a new Employee</h1><!--two comments-->
 
 		<?php 
 		echo $this->Form->create('Person',array(
