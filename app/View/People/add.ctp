@@ -13,7 +13,7 @@
 
 ////////////////////---------------------- General Informations ----------------------////////////////////
 
-		echo ('<div class="panel panel-success"> <div class="panel-heading">General Informations</div><div class="panel-body">');
+		echo ('<div class="panel panel-success"> <div class="panel-heading">General Informations about the project</div><div class="panel-body">');
 
 		echo $this->Form->input('name', array(
 			'placeholder' => 'ex: Smith'
